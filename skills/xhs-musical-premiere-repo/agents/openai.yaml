@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书音乐剧首演 Repo 舆情"
+  short_description: "复用小红书音乐剧首演 repo 舆情采集、清洗、分析和 Word 报告交付流程"
+  default_prompt: "使用这个 skill 为指定音乐剧首演整理小红书 repo 舆情报告，排除粉丝返场噪音，识别剧目评价、负面反馈和侵权风险；需要时导出带风声 logo 的标准 Word 内部版。"
